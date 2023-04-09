@@ -1,1 +1,1 @@
-# First experience with Django and Github
+# My first experience with Django and Github
