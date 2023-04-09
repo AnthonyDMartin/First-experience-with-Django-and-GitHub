@@ -1,1 +1,1 @@
-# Prvni-zkusenost-s-Django-a-Git
+# First experience with Django and Github
