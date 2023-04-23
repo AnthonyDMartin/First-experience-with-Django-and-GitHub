@@ -1,1 +1,1 @@
-# My first experience with Django and Github in Czech.
+# My first experience with Django and GitHub in Czech.
